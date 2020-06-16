@@ -17,6 +17,7 @@ def findSubSequence(s, num):
 
 	return res 
 
+
 def combinedSum(s): 
 
 	# length of string 
